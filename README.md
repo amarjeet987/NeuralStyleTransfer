@@ -1,8 +1,8 @@
 # NeuralStyleTransfer
 Neural Style Transfer implementation in keras
 
+<img src = "https://user-images.githubusercontent.com/38986305/46235799-9f9bca80-c399-11e8-9e1c-220094f33c12.jpg" width="50">
 
-![starry_night](https://user-images.githubusercontent.com/38986305/46235799-9f9bca80-c399-11e8-9e1c-220094f33c12.jpg)
 
 
 # +
